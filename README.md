@@ -1,7 +1,7 @@
 # my-profile
 My Profile
-Inline-style: 
-![Hello](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Hello")
+
+![alt text](https://github.com/adeelzhub/adeelzhub/blob/main/wave-hello.gif "Hello")
 Hi there, I am Adeel. I am a Developer in trainning. 
 I am currently studing Master Coding at Code Nation, Manchester.
 I am also working on couple of my own Projects.
